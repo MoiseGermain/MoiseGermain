@@ -3,12 +3,13 @@ I'm Moise, a passionate DevOps Engineer. This space is all about diving into the
 
 Explore with me:
 
-🛠️ Insights: Discover tips for smoother CI/CD pipelines and rock-solid infra.
-👩‍💻 Examples: Hands-on demos showcasing the magic of automation and containers.
-🤝 Connect: Let's learn and grow together in this exciting DevOps journey!
+- 🛠️ Insights: Discover tips for smoother CI/CD pipelines and rock-solid infra. <br>
+- 👩‍💻 Examples: Hands-on demos showcasing the magic of automation and containers. <br>
+- 🤝 Connect: Let's learn and grow together in this exciting DevOps journey! <br>
+
 Cheers to optimized workflows and innovation!
 
-Moise Germain
+Moise Germain <br>
 DevOps Engineer
 
 <!--
