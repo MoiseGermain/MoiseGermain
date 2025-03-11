@@ -16,8 +16,7 @@ I'm a **Cloud Engineer** passionate about building scalable, high-availability c
 ### 📜 Certifications:  
 - **AWS Certified Solutions Architect – Associate** 🏆  
 - **AWS Certified Cloud Practitioner** 🏆
-- **Registered Scrum Master** 🏆
-- (More certifications coming soon...)  
+- **Registered Scrum Master** 🏆 
 
 📫 **Let's connect!** Feel free to explore my projects, provide feedback, or reach out for collaboration.  
 
