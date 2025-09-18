@@ -2,20 +2,26 @@
 
 I'm a **Cloud Engineer** with hands-on experience designing and automating scalable, secure AWS infrastructure. My work focuses on **cloud-native architecture, infrastructure as code (IaC), networking, Kubernetes platforms, and security-first deployment strategies**.
 
-This portfolio features **real-world projects** that reflect production-grade solutions and best practices used in modern cloud environments—built with a focus on automation, resilience, and performance.
+This portfolio highlights production-grade projects built to reflect real-world cloud solutions, focusing on automation, resilience, performance, and security best practices.
 
 ---
 
 ### 🔧 Core Competencies
-- **Infrastructure as Code (IaC)** – Terraform and Helm to provision scalable and repeatable AWS infrastructure.
+- **Infrastructure as Code (IaC)** – Terraform, CloudFormation, and Helm to provision repeatable, secure AWS infrastructure.
 - **Cloud Networking** – VPC design, Transit Gateway, VPNs, DNS (Route 53), ALB/NLB, and security groups/firewalls.
 - **Container Orchestration** – EKS with Helm, service mesh, and deployment pipelines for microservices.
-- **Cloud Security & Compliance** – PCI-aware architectures, ingress/egress controls, and secrets management.
-- **Cloud Migrations & Availability** – Designing multi-AZ/region DR strategies using AWS native services.
+- **Cloud Security & Compliance** – Secure ingress/egress controls, secrets management, and regulatory-aligned architectures.
+- **Cloud Migrations & Availability** – Multi-AZ/region high availability, disaster recovery, and failover planning with AWS native services.
 
 ---
 
 ### 📂 Featured Projects
+
+#### 🚨 [Phase 2 – Cloud-Native Serverless Threat Detection Pipeline] (https://github.com/MoiseGermain/aws-serverless-threat-detection)
+A serverless security monitoring solution built with AWS CloudTrail, EventBridge, Lambda, SNS, and IAM, fully automated via Terraform. It captures security events in real time, sends alerts, and demonstrates a cloud-native approach to threat detection and response.
+
+#### 🌐 [Phase 3 – Advanced Networking Infrastructure with Hub-and-Spoke VPC] (https://github.com/MoiseGermain/aws-advanced-networking-infra)
+A scalable, multi-region AWS network architecture featuring a hub-and-spoke VPC design, Transit Gateway, ALB, CloudFront, and WAF integration. Implements Terraform-based automation for secure, high-performance networking and application delivery.
 
 #### 🚀 [Cloud-Native Microservices on AWS EKS (Terraform + Helm)](https://github.com/MoiseGermain/Microservices-App-on-AWS-EKS-with-Helm-and-Terraform)
 A production-ready Kubernetes deployment pipeline using EKS, Helm charts, Terraform modules, ALB Ingress, and secrets integration. Designed for secure and scalable multi-service applications.
