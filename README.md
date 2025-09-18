@@ -17,10 +17,10 @@ This portfolio highlights production-grade projects built to reflect real-world 
 
 ### 📂 Featured Projects
 
-#### 🚨 [Phase 2 – Cloud-Native Serverless Threat Detection Pipeline] (https://github.com/MoiseGermain/aws-serverless-threat-detection)
+#### 🚨 [Phase 2 – Cloud-Native Serverless Threat Detection Pipeline](https://github.com/MoiseGermain/aws-serverless-threat-detection)
 A serverless security monitoring solution built with AWS CloudTrail, EventBridge, Lambda, SNS, and IAM, fully automated via Terraform. It captures security events in real time, sends alerts, and demonstrates a cloud-native approach to threat detection and response.
 
-#### 🌐 [Phase 3 – Advanced Networking Infrastructure with Hub-and-Spoke VPC] (https://github.com/MoiseGermain/aws-advanced-networking-infra)
+#### 🌐 [Phase 3 – Advanced Networking Infrastructure with Hub-and-Spoke VPC](https://github.com/MoiseGermain/aws-advanced-networking-infra)
 A scalable, multi-region AWS network architecture featuring a hub-and-spoke VPC design, Transit Gateway, ALB, CloudFront, and WAF integration. Implements Terraform-based automation for secure, high-performance networking and application delivery.
 
 #### 🚀 [Cloud-Native Microservices on AWS EKS (Terraform + Helm)](https://github.com/MoiseGermain/Microservices-App-on-AWS-EKS-with-Helm-and-Terraform)
